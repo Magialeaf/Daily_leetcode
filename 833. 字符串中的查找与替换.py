@@ -11,7 +11,7 @@ class Solution:
 
         for idx in keys:
             i = dic[idx]
-
+ 
             l = len(sources[i])
 
             res.append(s[nxt:idx])
